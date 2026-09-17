@@ -1,0 +1,6 @@
+{
+  "name": "Digital Visitor Verification System",
+  "description": "A research-backed, practical, low-cost web application for college campus visitor verification, host approvals, explainable attention scoring, and security decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
